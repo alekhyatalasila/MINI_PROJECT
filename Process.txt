@@ -1,0 +1,27 @@
+Step 1: Install Python
+Step 2: Install Visual Studio
+Step 3: Install Git Bash
+Step 4: Create Virtual Env. near project folder
+	Cmd 1: pip install virtualenv :--- to create virtualenv 
+	Cmd 2: virtualenv venv :---- just a name
+	Cmd 3: source venv/Script/Activate :---VE activated
+	Cmd 4: cd project folder name[Analysis project name] 
+	Cmd 5: pip install -r requirements.txt
+	Cmd 6: python nltkdownload.py :----for 1st time,2nd time ignore it
+	Cmd 7: python ML.py
+Step 5: Upload a file from project folders
+Step 6: Clean tweets
+Step 7: Arrange the tweets
+Step 8: Run ML Algorithm
+Step 9: Show graph
+
+
+
+
+
+2nd time:In Git Bash
+Step 1: Cmd 3: source venv/Script/Activate :---VE activated
+	Cmd 4: cd project folder name[Analysis project name] 
+	Cmd 7: python ML.py
+
+
